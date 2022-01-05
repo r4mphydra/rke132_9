@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.exe
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.deps.json
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.dll
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\ref\MyWishListFile.dll
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\bin\Debug\net5.0\MyWishListFile.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.dll
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\ref\MyWishListFile.dll
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\MyWishListFile\obj\Debug\net5.0\MyWishListFile.genruntimeconfig.cache

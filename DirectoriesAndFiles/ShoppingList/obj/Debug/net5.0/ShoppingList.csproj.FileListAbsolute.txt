@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.exe
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.deps.json
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.dll
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ref\ShoppingList.dll
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\bin\Debug\net5.0\ShoppingList.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.dll
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ref\ShoppingList.dll
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.pdb
+C:\Users\Artjom\Documents\RKE132\Nadal9\DirectoriesAndFiles\ShoppingList\obj\Debug\net5.0\ShoppingList.genruntimeconfig.cache
